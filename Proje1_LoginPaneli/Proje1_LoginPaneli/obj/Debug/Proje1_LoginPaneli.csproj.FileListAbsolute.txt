@@ -1,0 +1,11 @@
+C:\Users\YunusEmre\Desktop\C# PROJELER\Proje1_LoginPaneli\Proje1_LoginPaneli\bin\Debug\Proje1_LoginPaneli.exe.config
+C:\Users\YunusEmre\Desktop\C# PROJELER\Proje1_LoginPaneli\Proje1_LoginPaneli\bin\Debug\Proje1_LoginPaneli.exe
+C:\Users\YunusEmre\Desktop\C# PROJELER\Proje1_LoginPaneli\Proje1_LoginPaneli\bin\Debug\Proje1_LoginPaneli.pdb
+C:\Users\YunusEmre\Desktop\C# PROJELER\Proje1_LoginPaneli\Proje1_LoginPaneli\obj\Debug\Proje1_LoginPaneli.csproj.AssemblyReference.cache
+C:\Users\YunusEmre\Desktop\C# PROJELER\Proje1_LoginPaneli\Proje1_LoginPaneli\obj\Debug\Proje1_LoginPaneli.csproj.SuggestedBindingRedirects.cache
+C:\Users\YunusEmre\Desktop\C# PROJELER\Proje1_LoginPaneli\Proje1_LoginPaneli\obj\Debug\Proje1_LoginPaneli.Form1.resources
+C:\Users\YunusEmre\Desktop\C# PROJELER\Proje1_LoginPaneli\Proje1_LoginPaneli\obj\Debug\Proje1_LoginPaneli.Properties.Resources.resources
+C:\Users\YunusEmre\Desktop\C# PROJELER\Proje1_LoginPaneli\Proje1_LoginPaneli\obj\Debug\Proje1_LoginPaneli.csproj.GenerateResource.cache
+C:\Users\YunusEmre\Desktop\C# PROJELER\Proje1_LoginPaneli\Proje1_LoginPaneli\obj\Debug\Proje1_LoginPaneli.csproj.CoreCompileInputs.cache
+C:\Users\YunusEmre\Desktop\C# PROJELER\Proje1_LoginPaneli\Proje1_LoginPaneli\obj\Debug\Proje1_LoginPaneli.exe
+C:\Users\YunusEmre\Desktop\C# PROJELER\Proje1_LoginPaneli\Proje1_LoginPaneli\obj\Debug\Proje1_LoginPaneli.pdb
