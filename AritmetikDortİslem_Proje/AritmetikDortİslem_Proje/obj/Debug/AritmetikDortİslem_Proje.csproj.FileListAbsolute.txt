@@ -1,0 +1,11 @@
+C:\Users\YunusEmre\Desktop\C# PROJELER\AritmetikDortİslem_Proje\AritmetikDortİslem_Proje\bin\Debug\AritmetikDortİslem_Proje.exe.config
+C:\Users\YunusEmre\Desktop\C# PROJELER\AritmetikDortİslem_Proje\AritmetikDortİslem_Proje\bin\Debug\AritmetikDortİslem_Proje.exe
+C:\Users\YunusEmre\Desktop\C# PROJELER\AritmetikDortİslem_Proje\AritmetikDortİslem_Proje\bin\Debug\AritmetikDortİslem_Proje.pdb
+C:\Users\YunusEmre\Desktop\C# PROJELER\AritmetikDortİslem_Proje\AritmetikDortİslem_Proje\obj\Debug\AritmetikDortİslem_Proje.csproj.AssemblyReference.cache
+C:\Users\YunusEmre\Desktop\C# PROJELER\AritmetikDortİslem_Proje\AritmetikDortİslem_Proje\obj\Debug\AritmetikDortİslem_Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\YunusEmre\Desktop\C# PROJELER\AritmetikDortİslem_Proje\AritmetikDortİslem_Proje\obj\Debug\AritmetikDortİslem_Proje.Form1.resources
+C:\Users\YunusEmre\Desktop\C# PROJELER\AritmetikDortİslem_Proje\AritmetikDortİslem_Proje\obj\Debug\AritmetikDortİslem_Proje.Properties.Resources.resources
+C:\Users\YunusEmre\Desktop\C# PROJELER\AritmetikDortİslem_Proje\AritmetikDortİslem_Proje\obj\Debug\AritmetikDortİslem_Proje.csproj.GenerateResource.cache
+C:\Users\YunusEmre\Desktop\C# PROJELER\AritmetikDortİslem_Proje\AritmetikDortİslem_Proje\obj\Debug\AritmetikDortİslem_Proje.csproj.CoreCompileInputs.cache
+C:\Users\YunusEmre\Desktop\C# PROJELER\AritmetikDortİslem_Proje\AritmetikDortİslem_Proje\obj\Debug\AritmetikDortİslem_Proje.exe
+C:\Users\YunusEmre\Desktop\C# PROJELER\AritmetikDortİslem_Proje\AritmetikDortİslem_Proje\obj\Debug\AritmetikDortİslem_Proje.pdb
