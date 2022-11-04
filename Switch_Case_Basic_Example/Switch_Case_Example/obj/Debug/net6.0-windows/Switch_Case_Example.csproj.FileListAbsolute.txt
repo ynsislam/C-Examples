@@ -1,0 +1,17 @@
+C:\Users\YunusEmre\Desktop\C# PROJELER\Switch_Case_Example\Switch_Case_Example\bin\Debug\net6.0-windows\Switch_Case_Example.exe
+C:\Users\YunusEmre\Desktop\C# PROJELER\Switch_Case_Example\Switch_Case_Example\bin\Debug\net6.0-windows\Switch_Case_Example.deps.json
+C:\Users\YunusEmre\Desktop\C# PROJELER\Switch_Case_Example\Switch_Case_Example\bin\Debug\net6.0-windows\Switch_Case_Example.runtimeconfig.json
+C:\Users\YunusEmre\Desktop\C# PROJELER\Switch_Case_Example\Switch_Case_Example\bin\Debug\net6.0-windows\Switch_Case_Example.dll
+C:\Users\YunusEmre\Desktop\C# PROJELER\Switch_Case_Example\Switch_Case_Example\bin\Debug\net6.0-windows\Switch_Case_Example.pdb
+C:\Users\YunusEmre\Desktop\C# PROJELER\Switch_Case_Example\Switch_Case_Example\obj\Debug\net6.0-windows\Switch_Case_Example.csproj.AssemblyReference.cache
+C:\Users\YunusEmre\Desktop\C# PROJELER\Switch_Case_Example\Switch_Case_Example\obj\Debug\net6.0-windows\Switch_Case_Example.Form1.resources
+C:\Users\YunusEmre\Desktop\C# PROJELER\Switch_Case_Example\Switch_Case_Example\obj\Debug\net6.0-windows\Switch_Case_Example.csproj.GenerateResource.cache
+C:\Users\YunusEmre\Desktop\C# PROJELER\Switch_Case_Example\Switch_Case_Example\obj\Debug\net6.0-windows\Switch_Case_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YunusEmre\Desktop\C# PROJELER\Switch_Case_Example\Switch_Case_Example\obj\Debug\net6.0-windows\Switch_Case_Example.AssemblyInfoInputs.cache
+C:\Users\YunusEmre\Desktop\C# PROJELER\Switch_Case_Example\Switch_Case_Example\obj\Debug\net6.0-windows\Switch_Case_Example.AssemblyInfo.cs
+C:\Users\YunusEmre\Desktop\C# PROJELER\Switch_Case_Example\Switch_Case_Example\obj\Debug\net6.0-windows\Switch_Case_Example.csproj.CoreCompileInputs.cache
+C:\Users\YunusEmre\Desktop\C# PROJELER\Switch_Case_Example\Switch_Case_Example\obj\Debug\net6.0-windows\Switch_Case_Example.dll
+C:\Users\YunusEmre\Desktop\C# PROJELER\Switch_Case_Example\Switch_Case_Example\obj\Debug\net6.0-windows\refint\Switch_Case_Example.dll
+C:\Users\YunusEmre\Desktop\C# PROJELER\Switch_Case_Example\Switch_Case_Example\obj\Debug\net6.0-windows\Switch_Case_Example.pdb
+C:\Users\YunusEmre\Desktop\C# PROJELER\Switch_Case_Example\Switch_Case_Example\obj\Debug\net6.0-windows\Switch_Case_Example.genruntimeconfig.cache
+C:\Users\YunusEmre\Desktop\C# PROJELER\Switch_Case_Example\Switch_Case_Example\obj\Debug\net6.0-windows\ref\Switch_Case_Example.dll
